@@ -1,7 +1,7 @@
 # the topology of attention
 
 3D knowledge graph of real Wikipedia articles, controlled by hand gestures (MediaPipe) or mouse.
-
+# dev/creator=tubakhxn
     npm install
     npm run dev        # open http://localhost:5173 and allow the webcam
     npm run build      # production build -> dist/
